@@ -1,0 +1,21 @@
+Ananya Singh  [20MIC0095]
+
+Git and GitHub fundamentals:
+
+1. **Git**:
+   - Git is a distributed version control system designed to track changes in files and coordinate work among multiple contributors.
+   - It allows users to create and maintain repositories (collections of files and their history), making it easier to collaborate on projects.
+   - Git operates locally on a user's machine, enabling offline work and fast operations due to its distributed nature.
+   - It uses branching and merging mechanisms to manage parallel development efforts, allowing users to work on different features or fixes simultaneously.
+   - Git employs a commit-based workflow, where changes are recorded as commits along with metadata like authorship and timestamps.
+
+2. **GitHub**:
+   - GitHub is a web-based platform built around Git, offering additional features for collaboration, project management, and code hosting.
+   - It provides a centralized location for hosting Git repositories, making it easy for individuals and teams to share and collaborate on code.
+   - GitHub offers features like issue tracking, pull requests, and project boards to facilitate communication and coordination among team members.
+   - It allows for seamless integration with various development tools and services, such as continuous integration (CI) pipelines and code review tools.
+   - GitHub also serves as a platform for open-source collaboration, enabling developers worldwide to contribute to projects, report issues, and propose changes.
+
+In summary, Git is the version control system that tracks changes locally, while GitHub is a web-based platform built around Git,
+ offering additional collaboration and project management features.Together, they form a powerful combination for managing and 
+ collaborating on software development projects.
